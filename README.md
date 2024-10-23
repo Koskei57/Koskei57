@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi, I'm Dennis Cheruiyot, a passionate Full Stack Web Developer and Data Scientist with a strong background in building scalable web applications and solving complex data problems. My work bridges the gap between software development and data analytics, allowing me to design, build, and optimize data-driven systems that provide impactful insights.<br>Web Development:<br>. Proficient in JavaScript, React, Node.js, and Python, with experience in RESTful APIs, GraphQL, and SQL/NoSQL databases.<br>. Extensive hands-on experience in both front-end and back-end development, working with tools like WordPress, Django, and Express.js.<br>. Strong advocate for clean code, performance optimization, and responsive design using frameworks like Bootstrap and Tailwind CSS.<br>Data Science:<br>- Expertise in machine learning, statistical modeling, and predictive analytics using Python libraries such as Pandas, Scikit-learn, Statsmodels, and TensorFlow.<br>- Skilled in data visualization using Tableau, Power BI, and Matplotlib, turning complex datasets into actionable insights.<br>- Experience with big data processing and cloud technologies like AWS and Google Cloud.<br>
+Hi, I'm Dennis Cheruiyot, a passionate Full Stack Web Developer and Data Scientist with a strong background in building scalable web applications and solving complex data problems. My work bridges the gap between software development and data analytics, allowing me to design, build, and optimize data-driven systems that provide impactful insights.
+- **Web Development:**
+  - Proficient in **JavaScript**, **React**, **Node.js**, and **Python**, **Ruby**, **Ruby on Rails**.
+  - Experienced with **RESTful APIs**, **GraphQL**,**Postgresql**, and **SQL/NoSQL** databases.
+  - Hands-on experience in **front-end** and **back-end** development with tools like **WordPress**, **Django**, and **Express.js**.
+  - Advocate for **clean code**, **performance optimization**, and **responsive design** using frameworks like **Bootstrap** and **Tailwind CSS**.
+
+- **Data Science:**
+  - Expertise in **machine learning**, **statistical modeling**, and **predictive analytics** using **Pandas**, **Scikit-learn**, **Statsmodels**, and **TensorFlow**.
+  - Skilled in **data visualization** with **Tableau**, **Power BI**, and **Matplotlib**.
 
 
 ## 🌐 Socials:
